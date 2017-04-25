@@ -106,3 +106,5 @@ Users must satisfy themselves regarding the application of statutory requirement
 
 You are responsible for using the information in a safe way
  Users are responsible for ensuring that information they use or cause to be used is used in a way which is safe, and is not likely to cause harm during or after manufacturing, construction, use or disassembly.
+ 
+![first-time-friendly](http://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square). If you're looking at making this documentation better but have never worked on Github before, go the to 'first-time-friendly' issue.
